@@ -62,5 +62,3 @@ Uma consultoria tributária deseja entender o comportamento da arrecadação fed
 4. Execute as células na ordem
 
 ---
-
-*Case desenvolvido em grupo. Agradecimentos ao time e à orientação do MBA em Analytics e IA da FIA.*
