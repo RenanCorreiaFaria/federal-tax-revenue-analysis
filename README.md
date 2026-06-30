@@ -91,17 +91,6 @@ federal-tax-revenue-analysis/
 4. Garanta que o arquivo de dados em `data/` esteja acessível no caminho esperado.
 5. Execute as células na ordem.
 
-### 👥 Time
-
-Estudo de caso desenvolvido em grupo no MBA em Analytics e IA / Data Science da FIA:
-
-- Renan Correia de Faria (líder)
-- Bruno Umeoka Higuti
-- Hygor Vaz de Souza Barbosa
-- Michelle Arisa Tanaka
-- Victor Aquino
-
-*A troca de ideias dentro do grupo foi parte essencial da qualidade da análise.*
 
 ---
 
@@ -192,14 +181,3 @@ federal-tax-revenue-analysis/
 4. Make sure the data file in `data/` is accessible at the expected path.
 5. Run the cells in order.
 
-### 👥 Team
-
-Case study developed as a group during the MBA in Analytics and AI / Data Science at FIA:
-
-- Renan Correia de Faria (lead)
-- Bruno Umeoka Higuti
-- Hygor Vaz de Souza Barbosa
-- Michelle Arisa Tanaka
-- Victor Aquino
-
-*The exchange of ideas within the group was an essential part of the analysis quality.*
