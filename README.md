@@ -56,7 +56,7 @@ Dados de arrecadação federal de 2024, organizados por **natureza jurídica** (
 
 | Distribuição (média × mediana × máximo) | Matriz de correlação de Spearman |
 |---|---|
-| ![Distribuicao](images/grafico_media_mediana.png) | ![Correlacao](images/matriz_spearman.png) |
+| ![Distribuicao](images/grafico_media_mediana_max.png) | ![Correlacao](images/matriz_spearman.png) |
 
 ### 🛠️ Ferramentas utilizadas
 
@@ -159,7 +159,7 @@ Brazilian federal tax revenue data for 2024, organized by **legal entity type** 
 
 | Distribution (mean × median × max) | Spearman correlation matrix |
 |---|---|
-| ![Distribution](images/grafico_media_mediana.png) | ![Correlation](images/matriz_spearman.png) |
+| ![Distribution](images/grafico_media_mediana_max.png) | ![Correlation](images/matriz_spearman.png) |
 
 ### 🛠️ Tools used
 
