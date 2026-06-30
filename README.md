@@ -74,9 +74,7 @@ federal-tax-revenue-analysis/
 ├── data/          # base de dados utilizada
 ├── notebooks/     # notebook com a análise completa
 ├── images/        # graficos exportados
-├── src/           # codigo auxiliar de visualizacao (.py)
 ├── README.md
-└── requirements.txt
 ```
 
 ### ▶️ Como executar
@@ -177,9 +175,7 @@ federal-tax-revenue-analysis/
 ├── data/          # dataset used
 ├── notebooks/     # notebook with the full analysis
 ├── images/        # exported charts
-├── src/           # auxiliary visualization code (.py)
 ├── README.md
-└── requirements.txt
 ```
 
 ### ▶️ How to run
