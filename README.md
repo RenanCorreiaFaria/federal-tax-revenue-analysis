@@ -74,6 +74,7 @@ federal-tax-revenue-analysis/
 ├── data/          # base de dados utilizada
 ├── notebooks/     # notebook com a análise completa
 ├── images/        # graficos exportados
+├── dashboard/     # dashboard powerbi
 ├── README.md
 ```
 
@@ -164,6 +165,7 @@ federal-tax-revenue-analysis/
 ├── data/          # dataset used
 ├── notebooks/     # notebook with the full analysis
 ├── images/        # exported charts
+├── dashboard/     # dashboard powerbi
 ├── README.md
 ```
 
